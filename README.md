@@ -11,22 +11,22 @@ Gamify Learn is a **gamified social learning platform** — the first of its kin
 ## 🖥️ Pages
 
 **Home Page** — Landing page with hero, features overview & getting started
-![Home Page](screenshots/www.gamifylearn.com_.png)
+![Home Page](./www.gamifylearn.com_.png)
 
 **Feed Page** — Social feed where learners share wins, ask questions & engage
-![Feed Page](<screenshots/www.gamifylearn.com_feed%20(1).png>)
+![Feed Page](<./www.gamifylearn.com_feed%20(1).png>)
 
 **Challenges Page** — Daily quests, quizzes & live competitions
-![Challenges Page](screenshots/www.gamifylearn.com_challenges.png)
+![Challenges Page](./www.gamifylearn.com_challenges.png)
 
 **Rewards Page** — Badges, avatars, banners & redeemable rewards
-![Rewards Page](screenshots/www.gamifylearn.com_rewards.png)
+![Rewards Page](./www.gamifylearn.com_rewards.png)
 
 **Leaderboard Page** — Global & friends rankings with XP tracking
-![Leaderboard Page](screenshots/www.gamifylearn.com_leaderboard.png)
+![Leaderboard Page](./www.gamifylearn.com_leaderboard.png)
 
 **Dashboard / Profile Page** — User stats, skill trees & progress
-![Dashboard Profile Page](screenshots/www.gamifylearn.com_dashboard_profile.png)
+![Dashboard Profile Page](./www.gamifylearn.com_dashboard_profile.png)
 
 ## 🌐 Live
 
